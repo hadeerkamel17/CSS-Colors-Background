@@ -1,0 +1,34 @@
+div {
+    color: red;
+}
+h1 {
+    color: #bc8f8f;
+}
+h2 {
+    color:rgb(34, 129, 129);
+}
+/* hsla mean hsla(hue, saturation, lightness, alpha) 
+HSLA color values are an extension of HSL color values, 
+with an Alpha channel - which specifies the opacity for a color.
+
+*/
+h3 {
+    color: hsla(9, 100%, 64%, 0.6);
+}
+
+h4 {
+    background-color: #bc8f8f;
+}
+h5 {
+    color: aliceblue;
+    background: url(html.png) no-repeat fixed center / cover;
+    height: 1000px;
+}
+p {
+    background-image: url(ramadan.avif) ;
+    background-repeat: repeat;
+    background-size: 100px;
+    background-position: top center;
+    background-attachment: scroll;
+    height: 100px;
+}
